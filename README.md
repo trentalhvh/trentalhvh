@@ -1,4 +1,4 @@
-# Hello my names TRENTAL👋
+# shalom 👋
 im a british hvher, lua, javascript and java developer
 ### Current Projects
 - Ivy.lua/js
