@@ -1,9 +1,10 @@
 # shalom 👋
 im a british hvher, lua, javascript and java developer
 ### Current Projects
-- Ivy.lua/js
+- IVYTECH [neverlose.cc lua]
 ### Past Projects
-- zori.club
+- Triton.js [discontinued]
+- Ivy.js [discontinued]
 ### Contact me
 - Discord: trental#9999
 - Email: trental@trolled.cc
